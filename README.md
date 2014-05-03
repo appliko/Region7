@@ -9,7 +9,7 @@ Requirements
 *  iOS7 or Greater
 *  Core Location Framework
 
-Licenese
+License
 =======
 Please check the LICENSE.txt file for more information (BSD).
 
