@@ -8,3 +8,9 @@ Requirements
 ============
 *  iOS7 or Greater
 *  Core Location Framework
+
+Licenese
+=======
+Please check the LICENSE.txt file for more information (BSD).
+
+Copyright (c) 2014, KS Technologies, LLC All rights reserved.
